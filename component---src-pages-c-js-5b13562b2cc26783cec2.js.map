@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/c.js"],"names":["C"],"mappings":"2FAAA,gCAIeA,UAFL,kBAAM","file":"component---src-pages-c-js-5b13562b2cc26783cec2.js","sourcesContent":["import React from \"react\"\r\n\r\nconst C = () => <p>C</p>\r\n\r\nexport default C"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/b.js"],"names":["B"],"mappings":"2FAAA,gCAIeA,UAFL,kBAAM","file":"component---src-pages-b-js-a962d9dbeefc081732d0.js","sourcesContent":["import React from \"react\"\r\n\r\nconst B = () => <p>B</p>\r\n\r\nexport default B"],"sourceRoot":""}
